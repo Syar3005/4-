@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\Ya ne znay kak nazvat.exe.config
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\Ya ne znay kak nazvat.exe
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\Ya ne znay kak nazvat.pdb
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya_ne_znay_kak_nazvat.Form1.resources
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya_ne_znay_kak_nazvat.Properties.Resources.resources
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.exe
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.pdb
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya_ne_znay_kak_nazvat.Form2.resources
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya ne znay kak nazvat.csproj.CopyComplete
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya_ne_znay_kak_nazvat.Form3.resources
+C:\Users\user\source\repos\Ya ne znay kak nazvat\Ya ne znay kak nazvat\obj\Debug\Ya_ne_znay_kak_nazvat.Form4.resources
